@@ -3,7 +3,6 @@ from __future__ import absolute_import, division, unicode_literals
 import sys
 
 from django.core.files.uploadedfile import InMemoryUploadedFile
-from future.builtins import int, str
 
 from hashlib import md5
 import os
